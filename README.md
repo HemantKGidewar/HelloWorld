@@ -1,2 +1,2 @@
 # HelloWorld
-timepass
+Sample Project
